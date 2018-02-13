@@ -4,7 +4,7 @@
     "email": "jeaworks@hotmail.com"
   },
   "name": "interpreter",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "clean:install": "rm -rf node_modules && npm install",
     "coverage": "open ./coverage/lcov-report/index.html",

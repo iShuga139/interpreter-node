@@ -1,4 +1,4 @@
-## Next
+## v0.1.0
 
 - Add the funcionality to check an expression and evaluate it
 
